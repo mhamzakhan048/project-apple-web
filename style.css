@@ -1,0 +1,63 @@
+.ulist{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 0%; }
+    a:hover {
+        color: darkgrey;
+     
+  }
+
+/* .ulist li{
+    margin: 0%;
+    height: 50px;
+    width: 50px;
+    align-items: center;
+}   */
+
+.covid
+    {
+        text-align: center;
+        text-decoration: none;
+        
+    }
+
+    .online {
+        text-align: center;
+text-decoration: none;
+    }
+
+header{
+    position: fixed;
+    top: 0;
+    height: 32px;
+    width: 100%;
+    color: white;
+    background-color: black;
+    z-index: 10;
+}
+.i {
+    font-size: 50px;
+}
+.buy{
+    text-decoration: none;
+}
+.buy1{
+    text-decoration: none;
+}
+
+
+ul , li{
+    list-style: none;
+
+
+}
+
+
+div.watch{
+
+text-align: center;
+
+}
+.for{
+    text-decoration: none;
+}
